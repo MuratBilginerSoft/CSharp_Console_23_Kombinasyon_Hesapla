@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Kombinasyon Hesapla\Kod S Kombinasyon Hesapla\bin\Debug\Kod S Kombinasyon Hesapla.exe
+C:\Users\mrt_b\Desktop\Kod S Kombinasyon Hesapla\Kod S Kombinasyon Hesapla\bin\Debug\Kod S Kombinasyon Hesapla.pdb
+C:\Users\mrt_b\Desktop\Kod S Kombinasyon Hesapla\Kod S Kombinasyon Hesapla\obj\x86\Debug\Kod S Kombinasyon Hesapla.exe
+C:\Users\mrt_b\Desktop\Kod S Kombinasyon Hesapla\Kod S Kombinasyon Hesapla\obj\x86\Debug\Kod S Kombinasyon Hesapla.pdb
